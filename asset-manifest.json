@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/React-FoodApp/static/css/main.e6c13ad2.css",
+    "main.js": "/React-FoodApp/static/js/main.a90c4bcb.js",
+    "static/js/787.0745e3f7.chunk.js": "/React-FoodApp/static/js/787.0745e3f7.chunk.js",
+    "static/media/Banner1.png": "/React-FoodApp/static/media/Banner1.c2d55dfac66bc8e9a970.png",
+    "static/media/menu-item-1.png": "/React-FoodApp/static/media/menu-item-1.c2d55dfac66bc8e9a970.png",
+    "static/media/menu-item-2.png": "/React-FoodApp/static/media/menu-item-2.cb0f07eb72252071866d.png",
+    "static/media/menu-item-3.png": "/React-FoodApp/static/media/menu-item-3.ac4d732dc1bea2fb0ed2.png",
+    "static/media/about2.jpg": "/React-FoodApp/static/media/about2.14937b5ba83cf6704df2.jpg",
+    "static/media/menu-item-4.png": "/React-FoodApp/static/media/menu-item-4.237c791344980563c969.png",
+    "static/media/menu-item-6.png": "/React-FoodApp/static/media/menu-item-6.c2e0fe5a862742abd382.png",
+    "static/media/about1.jpg": "/React-FoodApp/static/media/about1.39732bca241424a90e1a.jpg",
+    "static/media/menu-item-5.png": "/React-FoodApp/static/media/menu-item-5.dcfe20244e7538076d5c.png",
+    "static/media/Bookatable.avif": "/React-FoodApp/static/media/Bookatable.efb54b3d050e8e285cd9.avif",
+    "static/media/logo.svg": "/React-FoodApp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/React-FoodApp/index.html",
+    "main.e6c13ad2.css.map": "/React-FoodApp/static/css/main.e6c13ad2.css.map",
+    "main.a90c4bcb.js.map": "/React-FoodApp/static/js/main.a90c4bcb.js.map",
+    "787.0745e3f7.chunk.js.map": "/React-FoodApp/static/js/787.0745e3f7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.a90c4bcb.js"
+  ]
+}
